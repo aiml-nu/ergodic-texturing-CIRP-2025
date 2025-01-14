@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\malac\My Drive (malachilandis2027@u.northwestern.edu)\Guo Lab Materials\Swarm Robot\Version 2\PCB_CAD\KiCad\Swarm Robot\Swarm Robot.kicad_sch</source>
+    <date>7/17/2024 10:27:14 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Swarm Robot.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="1uF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2adebbdd-6113-4f09-bb83-5582c08e5b11</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d839f01-f8e5-4809-8326-985436b7de2f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62212da3-271e-4815-add5-452936179410</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa36e9b3-17eb-4957-be96-e085e1d7d7af</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86df62ac-be90-47ed-85b5-bb0040058263</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10pF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C32949</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10pF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C32949"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b1999cc-a8df-4a90-92a0-0ac7be06af29</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d81cd40c-512d-49f4-ab62-7bfb46bca216</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d47396a8-46fd-487e-9062-7ab0d8baea44</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b9627e2-37b8-4597-b662-d81c55168764</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>311b306b-ac05-4816-9e97-c82100c2316f</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <footprint>Swarm Footprints:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C96446</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10uF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C96446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bc8707e-0089-4969-a490-abddcca6d726</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b44d9255-3ffa-4092-a586-2f3c5d0c47cb</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Swarm Footprints:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="100nF" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35198fe4-674f-42a5-b886-2e9fa5962784</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Swarm Footprints:LED</footprint>
+      <fields>
+        <field name="LCSC">C282149</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C282149"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba1309e6-b811-4384-a759-e472073f4347</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Swarm Footprints:LED</footprint>
+      <fields>
+        <field name="LCSC">C282149</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C282149"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aacb3e86-cfdc-461a-ae35-38268fec6416</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Battery 1</value>
+      <footprint>Swarm Footprints:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C160352</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="JST Connector" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="LCSC" value="C160352"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fc64fe9-1b68-4a85-94aa-b2e0787311a2</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Battery 2</value>
+      <footprint>Swarm Footprints:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C160352</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="JST Connector" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="LCSC" value="C160352"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29f47d79-38b4-486c-97c3-ce7978286ce5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="1k" description="Resistor"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c9792f4-fc84-4efd-81e2-2ab6079f028e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>24k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25769</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="24k" description="Resistor"/>
+      <property name="LCSC" value="C25769"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27e5eb5c-56e3-4f5f-b83f-e10986ee76bd</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3d3a529-72a2-4044-b4ab-f3b7737b39d3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44d3925a-c363-4e45-be7f-e35c41bd9845</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4856cc60-6267-435e-9282-63c4e542ea8b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>796dfc3c-b4a3-4d79-8152-721ce24271c8</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b88693d7-a8c1-4493-83e7-45b2726c1995</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebf48c25-f199-4e5e-85ca-82f203d3149d</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>20Ω</value>
+      <footprint>Swarm Footprints:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C431908</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="20R" description="Resistor"/>
+      <property name="LCSC" value="C431908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f40e1a55-3ed9-4667-acd9-5f3eb812a580</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>20Ω</value>
+      <footprint>Swarm Footprints:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C431908</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="20R" description="Resistor"/>
+      <property name="LCSC" value="C431908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac31e1a5-230a-4983-a330-dde3873b542b</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bded687-54a6-4fd2-82a5-b5da6c204873</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8e453ae-1aac-43e0-aae4-512546addb3d</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Swarm Footprints:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="10k" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be578637-0e3e-4aea-ab04-351d0277ebc4</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Limit Switch SKRTLAE010</value>
+      <footprint>Swarm Footprints:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010</footprint>
+      <fields>
+        <field name="LCSC">C110293</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="Limit Switch SKRTLAE010" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C110293"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6341b628-01ae-4843-9673-333e247bcc26</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Limit Switch SKRTLAE010</value>
+      <footprint>Swarm Footprints:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010</footprint>
+      <fields>
+        <field name="LCSC">C110293</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="Limit Switch SKRTLAE010" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C110293"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e030a99-9c9d-445c-8b58-68445c574279</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>Limit Switch SKRTLAE010</value>
+      <footprint>Swarm Footprints:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010</footprint>
+      <fields>
+        <field name="LCSC">C110293</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="Limit Switch SKRTLAE010" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C110293"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce78410c-0bb0-4ec9-a8ac-1f17fe85a3ab</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>Limit Switch SKRTLAE010</value>
+      <footprint>Swarm Footprints:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010</footprint>
+      <fields>
+        <field name="LCSC">C110293</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="Limit Switch SKRTLAE010" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C110293"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0f4cb55-a46c-4a43-a882-bd61ba6cd20d</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>~</value>
+      <footprint>Swarm Footprints:MS-22D28-G020</footprint>
+      <fields>
+        <field name="LCSC">C963205</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="MS-22D280-G020" description=""/>
+      <property name="LCSC" value="C963205"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a39c6933-696a-49f5-8914-54a28058590e</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>~</value>
+      <footprint>Swarm Footprints:MS-22D28-G020</footprint>
+      <fields>
+        <field name="LCSC">C963205</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="MS-22D280-G020" description=""/>
+      <property name="LCSC" value="C963205"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>388b3789-66e1-44fe-b7b4-525667b673b8</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>~</value>
+      <footprint>Swarm Footprints:MS-22D28-G020</footprint>
+      <fields>
+        <field name="LCSC">C963205</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="MS-22D280-G020" description=""/>
+      <property name="LCSC" value="C963205"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd7b162-ed0b-4944-b5b7-3ee5556fc480</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>Swarm Footprints:WSON-8-EP(2x2)</footprint>
+      <fields>
+        <field name="LCSC">C39159</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="DRV8837" description="Texas Instruments motor driver"/>
+      <property name="LCSC" value="C39159"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Texas Instruments motor driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8078a3ac-7e99-49e6-b9bd-d85ed1c43284</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <footprint>Swarm Footprints:WSON-8-EP(2x2)</footprint>
+      <fields>
+        <field name="LCSC">C39159</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="DRV8837" description="Texas Instruments motor driver"/>
+      <property name="LCSC" value="C39159"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Texas Instruments motor driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a70f6fe5-0b40-42e9-8f5b-995f8e7081b1</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>~</value>
+      <footprint>Swarm Footprints:WSON-8-EP(2x2)</footprint>
+      <fields>
+        <field name="LCSC">C39159</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="DRV8837" description="Texas Instruments motor driver"/>
+      <property name="LCSC" value="C39159"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Texas Instruments motor driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9d07a02-0ba7-4877-a12d-bec1c45293eb</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>~</value>
+      <footprint>Swarm Footprints:WSON-8-EP(2x2)</footprint>
+      <fields>
+        <field name="LCSC">C39159</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="DRV8837" description="Texas Instruments motor driver"/>
+      <property name="LCSC" value="C39159"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <property name="ki_description" value="Texas Instruments motor driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>382e8c1f-7022-4e58-a30c-ec28f80b9a40</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>~</value>
+      <footprint>Swarm Footprints:SOT-23-5</footprint>
+      <fields>
+        <field name="LCSC">C395459</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="LMV321" description=""/>
+      <property name="LCSC" value="C395459"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42381c80-c9e8-43c1-926e-8a74be98208f</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>PCA9685PW</value>
+      <footprint>Swarm Footprints:TSSOP-28_4.4x9.7mm_P0.65mm</footprint>
+      <fields>
+        <field name="LCSC">C2678753</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="PCA9685PW" description=""/>
+      <property name="LCSC" value="C2678753"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca70daf9-e30f-4f16-b5aa-a980fe40e4df</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>LSM6DSOXTR</value>
+      <footprint>Swarm Footprints:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y</footprint>
+      <fields>
+        <field name="LCSC">C481766</field>
+      </fields>
+      <libsource lib="Swarm Symbols" part="LSM6DSOXTR" description=""/>
+      <property name="LCSC" value="C481766"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Swarm Robot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c85dc9a-0fa1-4340-ba78-a198d4ab31e6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Swarm Symbols" part="100nF">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">100nF</field>
+        <field name="Footprint">Swarm Footprints:C_0402_1005Metric</field>
+        <field name="LCSC">C307331</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="10k">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Swarm Footprints:R_0402_1005Metric</field>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="10pF">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">10pF</field>
+        <field name="Footprint">Swarm Footprints:C_0402_1005Metric</field>
+        <field name="LCSC">C32949</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="10uF">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">10uF</field>
+        <field name="Footprint">Swarm Footprints:C_0603_1608Metric</field>
+        <field name="LCSC">C96446</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="1k">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1k</field>
+        <field name="Footprint">Swarm Footprints:R_0402_1005Metric</field>
+        <field name="LCSC">C11702</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="1uF">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">1uF</field>
+        <field name="Footprint">Swarm Footprints:C_0402_1005Metric</field>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="20R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">20R</field>
+        <field name="Footprint">Swarm Footprints:R_1206_3216Metric</field>
+        <field name="LCSC">C431908</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="24k">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">24k</field>
+        <field name="Footprint">Swarm Footprints:R_0402_1005Metric</field>
+        <field name="LCSC">C25769</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="Button B3F-1000">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Button B3F-1000</field>
+        <field name="Footprint">Swarm Footprints:SW_PUSH_6mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="Conn_01x02_Socket">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Socket</field>
+        <field name="Footprint">Swarm Footprints:PinHeader_1x02_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="Conn_01x04_Socket">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Socket</field>
+        <field name="Footprint">Swarm Footprints:PinHeader_1x04_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="Conn_01x08_Socket">
+      <description>Generic connector, single row, 01x08, script generated</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Socket</field>
+        <field name="Footprint">Swarm Footprints:PinHeader_1x08_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="DRV8837">
+      <description>Texas Instruments motor driver</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV8837</field>
+        <field name="Footprint">Swarm Footprints:WSON-8-EP(2x2)</field>
+        <field name="LCSC">C39159</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VM" type="input"/>
+        <pin num="2" name="OUT1" type="input"/>
+        <pin num="3" name="OUT2" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="IN2" type="input"/>
+        <pin num="6" name="IN1" type="input"/>
+        <pin num="7" name="nSLEEP" type="input"/>
+        <pin num="8" name="VCC" type="input"/>
+        <pin num="9" name="PAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="Gain Resistor">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Gain Resistor</field>
+        <field name="Footprint">Swarm Footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="JST Connector">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JST Connector</field>
+        <field name="Footprint">Swarm Footprints:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical</field>
+        <field name="LCSC">C160352</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="LED">
+      <description>Light emitting diode</description>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint">Swarm Footprints:LED</field>
+        <field name="LCSC">C282149</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="LMV321">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMV321</field>
+        <field name="Footprint">Swarm Footprints:SOT-23-5</field>
+        <field name="LCSC">C395459</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN+" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="IN-" type="input"/>
+        <pin num="4" name="OUT--" type="output"/>
+        <pin num="5" name="VCC+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="LSM6DSOXTR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LSM6DSOXTR</field>
+        <field name="Footprint">Swarm Footprints:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y</field>
+        <field name="LCSC">C481766</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDO/SA0" type="passive"/>
+        <pin num="2" name="SDx" type="passive"/>
+        <pin num="3" name="SCx" type="passive"/>
+        <pin num="4" name="INT1" type="passive"/>
+        <pin num="5" name="VDDIO" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="VDD" type="passive"/>
+        <pin num="9" name="INT2" type="passive"/>
+        <pin num="10" name="OSC_Aux" type="passive"/>
+        <pin num="11" name="SDO_Aux" type="passive"/>
+        <pin num="12" name="CS" type="passive"/>
+        <pin num="13" name="SCL" type="passive"/>
+        <pin num="14" name="SDA" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="Limit Switch SKRTLAE010">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Limit Switch SKRTLAE010</field>
+        <field name="Footprint">Swarm Footprints:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010</field>
+        <field name="LCSC">C110293</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="MS-22D280-G020">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Footprint">Swarm Footprints:MS-22D28-G020</field>
+        <field name="LCSC">C963205</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="" type="output"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="PCA9685PW">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9685PW</field>
+        <field name="Footprint">Swarm Footprints:TSSOP-28_4.4x9.7mm_P0.65mm</field>
+        <field name="LCSC">C2678753</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="passive"/>
+        <pin num="2" name="A1" type="passive"/>
+        <pin num="3" name="A2" type="passive"/>
+        <pin num="4" name="A3" type="passive"/>
+        <pin num="5" name="A4" type="passive"/>
+        <pin num="6" name="LED0" type="passive"/>
+        <pin num="7" name="LED1" type="passive"/>
+        <pin num="8" name="LED2" type="passive"/>
+        <pin num="9" name="LED3" type="passive"/>
+        <pin num="10" name="LED4" type="passive"/>
+        <pin num="11" name="LED5" type="passive"/>
+        <pin num="12" name="LED6" type="passive"/>
+        <pin num="13" name="LED7" type="passive"/>
+        <pin num="14" name="V_{SS}" type="passive"/>
+        <pin num="15" name="LED8" type="passive"/>
+        <pin num="16" name="LED9" type="passive"/>
+        <pin num="17" name="LED10" type="passive"/>
+        <pin num="18" name="LED11" type="passive"/>
+        <pin num="19" name="LED12" type="passive"/>
+        <pin num="20" name="LED13" type="passive"/>
+        <pin num="21" name="LED14" type="passive"/>
+        <pin num="22" name="LED15" type="passive"/>
+        <pin num="23" name="~{OE}" type="passive"/>
+        <pin num="24" name="A5" type="passive"/>
+        <pin num="25" name="EXTCLK" type="passive"/>
+        <pin num="26" name="SCL" type="passive"/>
+        <pin num="27" name="SDA" type="passive"/>
+        <pin num="28" name="V_{DD}" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Swarm Symbols" part="XIAO_ESP32S3">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XIAO_ESP32S3</field>
+        <field name="Footprint">Swarm Footprints:XIAO_ESP32S3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO1/A0/D0" type="input"/>
+        <pin num="2" name="GPIO2/A1/D1" type="input"/>
+        <pin num="3" name="GPIO3/A2/D2" type="input"/>
+        <pin num="4" name="GPIO4/A3/D3" type="input"/>
+        <pin num="5" name="GPIO5/A4/D4/SDA" type="input"/>
+        <pin num="6" name="GPIO6/A5/D5/SCL" type="input"/>
+        <pin num="7" name="GPIO43/D6/TX" type="input"/>
+        <pin num="8" name="GPIO44/RX" type="input"/>
+        <pin num="9" name="GPIO7/A8/D8/SCK" type="input"/>
+        <pin num="10" name="GPIO8/A9/D9/MISO" type="input"/>
+        <pin num="11" name="GPIO9/A10/D10/MOSI" type="input"/>
+        <pin num="12" name="3V3" type="input"/>
+        <pin num="13" name="GND" type="input"/>
+        <pin num="14" name="5V" type="input"/>
+        <pin num="15" name="BAT+" type="input"/>
+        <pin num="16" name="BAT-" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Swarm Symbols">
+      <uri>C:/Users/malac/My Drive (malachilandis2027@u.northwestern.edu)/Guo Lab Materials/Swarm Robot/Version 2/PCB_CAD/KiCad/Symbols/Swarm Symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="nSLEEP" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="nSLEEP" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="nSLEEP" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="VCC" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="nSLEEP" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="VCC" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="VCC+" pintype="power_in"/>
+      <node ref="U6" pin="28" pinfunction="V_{DD}" pintype="passive"/>
+      <node ref="U8" pin="12" pinfunction="CS" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="VDDIO" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="2" name="+BATT">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="SW6" pin="3" pintype="output"/>
+      <node ref="SW7" pin="6" pintype="output"/>
+      <node ref="SW8" pin="6" pintype="output"/>
+      <node ref="U1" pin="1" pinfunction="VM" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="VM" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="VM" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="VM" pintype="input"/>
+    </net>
+    <net code="3" name="Bump Sensor 1">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Bump Sensor 2">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Bump Sensor 3">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Bump Sensor 4">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW4" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW6" pin="6" pintype="output"/>
+      <node ref="SW7" pin="3" pintype="output"/>
+      <node ref="SW8" pin="3" pintype="output"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="PAD" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="9" pinfunction="PAD" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="PAD" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="PAD" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="A0" pintype="passive"/>
+      <node ref="U6" pin="14" pinfunction="V_{SS}" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="A1" pintype="passive"/>
+      <node ref="U6" pin="23" pinfunction="~{OE}" pintype="passive"/>
+      <node ref="U6" pin="24" pinfunction="A5" pintype="passive"/>
+      <node ref="U6" pin="25" pinfunction="EXTCLK" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="A2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="A3" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="A4" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="SDO/SA0" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="SDx" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="SCx" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW6" pin="5" pintype="output"/>
+    </net>
+    <net code="10" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1" pintype="passive"/>
+      <node ref="SW7" pin="4" pintype="output"/>
+      <node ref="SW7" pin="5" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(J10-Pad2)">
+      <node ref="J10" pin="2" pintype="passive"/>
+      <node ref="SW7" pin="1" pintype="output"/>
+      <node ref="SW7" pin="2" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1" pintype="passive"/>
+      <node ref="SW8" pin="4" pintype="output"/>
+      <node ref="SW8" pin="5" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(J11-Pad2)">
+      <node ref="J11" pin="2" pintype="passive"/>
+      <node ref="SW8" pin="1" pintype="output"/>
+      <node ref="SW8" pin="2" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(U1-IN1)">
+      <node ref="U1" pin="6" pinfunction="IN1" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="LED0" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(U1-IN2)">
+      <node ref="U1" pin="5" pinfunction="IN2" pintype="input"/>
+      <node ref="U6" pin="7" pinfunction="LED1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(U1-OUT1)">
+      <node ref="U1" pin="2" pinfunction="OUT1" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(U1-OUT2)">
+      <node ref="U1" pin="3" pinfunction="OUT2" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(U2-IN1)">
+      <node ref="U2" pin="6" pinfunction="IN1" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="LED2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(U2-IN2)">
+      <node ref="U2" pin="5" pinfunction="IN2" pintype="input"/>
+      <node ref="U6" pin="9" pinfunction="LED3" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(U2-OUT1)">
+      <node ref="U2" pin="2" pinfunction="OUT1" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U2-OUT2)">
+      <node ref="U2" pin="3" pinfunction="OUT2" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U3-IN1)">
+      <node ref="U3" pin="6" pinfunction="IN1" pintype="input"/>
+      <node ref="U6" pin="10" pinfunction="LED4" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(U3-IN2)">
+      <node ref="U3" pin="5" pinfunction="IN2" pintype="input"/>
+      <node ref="U6" pin="11" pinfunction="LED5" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(U3-OUT1)">
+      <node ref="U3" pin="2" pinfunction="OUT1" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(U3-OUT2)">
+      <node ref="U3" pin="3" pinfunction="OUT2" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U4-IN1)">
+      <node ref="U4" pin="6" pinfunction="IN1" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="LED6" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(U4-IN2)">
+      <node ref="U4" pin="5" pinfunction="IN2" pintype="input"/>
+      <node ref="U6" pin="13" pinfunction="LED7" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(U4-OUT1)">
+      <node ref="U4" pin="2" pinfunction="OUT1" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(U4-OUT2)">
+      <node ref="U4" pin="3" pinfunction="OUT2" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(U5-IN+)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U5-IN-)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U6-LED8)">
+      <node ref="U6" pin="15" pinfunction="LED8" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(U6-LED9)">
+      <node ref="U6" pin="16" pinfunction="LED9" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(U6-LED10)">
+      <node ref="U6" pin="17" pinfunction="LED10" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(U6-LED11)">
+      <node ref="U6" pin="18" pinfunction="LED11" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(U6-LED12)">
+      <node ref="U6" pin="19" pinfunction="LED12" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(U6-LED13)">
+      <node ref="U6" pin="20" pinfunction="LED13" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(U6-LED14)">
+      <node ref="U6" pin="21" pinfunction="LED14" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(U6-LED15)">
+      <node ref="U6" pin="22" pinfunction="LED15" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(U8-INT1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="INT1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(U8-INT2)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U8" pin="9" pinfunction="INT2" pintype="passive"/>
+    </net>
+    <net code="44" name="PD Analog">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="OUT--" pintype="output"/>
+    </net>
+    <net code="45" name="SCL">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U6" pin="26" pinfunction="SCL" pintype="passive"/>
+      <node ref="U8" pin="13" pinfunction="SCL" pintype="passive"/>
+    </net>
+    <net code="46" name="SDA">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U6" pin="27" pinfunction="SDA" pintype="passive"/>
+      <node ref="U8" pin="14" pinfunction="SDA" pintype="passive"/>
+    </net>
+    <net code="47" name="Top Sensor">
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="unconnected-(SW6-Pad1)">
+      <node ref="SW6" pin="1" pintype="output+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(SW6-Pad4)">
+      <node ref="SW6" pin="4" pintype="output+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U8-OSC_Aux-Pad10)">
+      <node ref="U8" pin="10" pinfunction="OSC_Aux" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U8-SDO_Aux-Pad11)">
+      <node ref="U8" pin="11" pinfunction="SDO_Aux" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

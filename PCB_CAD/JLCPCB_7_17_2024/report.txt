@@ -1,0 +1,7 @@
+Info: Output directory 'C:\Users\malac\My Drive (malachilandis2027@u.northwestern.edu)\Guo Lab Materials\Swarm Robot\Version 2\PCB_CAD\JLCPCB_5-24-24' created.
+Info: Front (top side) placement file: 'C:\Users\malac\My Drive (malachilandis2027@u.northwestern.edu)\Guo Lab Materials\Swarm Robot\Version 2\PCB_CAD\JLCPCB_5-24-24\Swarm Robot-top-pos.csv'.
+Info: Component count: 57.
+Info: Back (bottom side) placement file: 'C:\Users\malac\My Drive (malachilandis2027@u.northwestern.edu)\Guo Lab Materials\Swarm Robot\Version 2\PCB_CAD\JLCPCB_5-24-24\Swarm Robot-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 57.
+Info: File generation successful.

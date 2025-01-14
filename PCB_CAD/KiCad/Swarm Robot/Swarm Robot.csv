@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC Part #
+1uF Unpolarized capacitor,C1,C_0402_1005Metric,C52923
+100nF Unpolarized capacitor,"C2,C3,C4,C5,C7,C8,C9,C10,C12,C13",C_0402_1005Metric,C307331
+10pF Unpolarized capacitor,C6,C_0402_1005Metric,C32949
+10uF Unpolarized capacitor,C11,C_0603_1608Metric,C96446
+LED Light emitting diode,"D1,D2",LED,C282149
+"Battery 1 Generic connector, single row, 01x02, script generated",J10,JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical,C160352
+"Battery 2 Generic connector, single row, 01x02, script generated",J11,JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical,C160352
+1k Resistor,R1,R_0402_1005Metric,C11702
+24k Resistor,R2,R_0402_1005Metric,C25769
+10k Resistor,"R4,R5,R6,R7,R8,R9,R12,R13,R14",R_0402_1005Metric,C25744
+20Ω Resistor,"R10,R11",R_1206_3216Metric,C431908
+"Limit Switch SKRTLAE010 Push button switch, generic, two pins","SW1,SW2,SW3,SW4",SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010,C110293
+~ ,"SW6,SW7,SW8",MS-22D28-G020,C963205
+~ Texas Instruments motor driver,"U1,U2,U3,U4",WSON-8-EP(2x2),C39159
+~ ,U5,SOT-23-5,C395459
+PCA9685PW ,U6,TSSOP-28_4.4x9.7mm_P0.65mm,C2678753
+LSM6DSOXTR ,U8,LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,C481766
